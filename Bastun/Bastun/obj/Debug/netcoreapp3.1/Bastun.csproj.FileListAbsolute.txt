@@ -1,0 +1,13 @@
+C:\Users\Sebastian\source\repos\Bastun\Bastun\bin\Debug\netcoreapp3.1\Bastun.exe
+C:\Users\Sebastian\source\repos\Bastun\Bastun\bin\Debug\netcoreapp3.1\Bastun.deps.json
+C:\Users\Sebastian\source\repos\Bastun\Bastun\bin\Debug\netcoreapp3.1\Bastun.runtimeconfig.json
+C:\Users\Sebastian\source\repos\Bastun\Bastun\bin\Debug\netcoreapp3.1\Bastun.runtimeconfig.dev.json
+C:\Users\Sebastian\source\repos\Bastun\Bastun\bin\Debug\netcoreapp3.1\Bastun.dll
+C:\Users\Sebastian\source\repos\Bastun\Bastun\bin\Debug\netcoreapp3.1\Bastun.pdb
+C:\Users\Sebastian\source\repos\Bastun\Bastun\obj\Debug\netcoreapp3.1\Bastun.csprojAssemblyReference.cache
+C:\Users\Sebastian\source\repos\Bastun\Bastun\obj\Debug\netcoreapp3.1\Bastun.AssemblyInfoInputs.cache
+C:\Users\Sebastian\source\repos\Bastun\Bastun\obj\Debug\netcoreapp3.1\Bastun.AssemblyInfo.cs
+C:\Users\Sebastian\source\repos\Bastun\Bastun\obj\Debug\netcoreapp3.1\Bastun.csproj.CoreCompileInputs.cache
+C:\Users\Sebastian\source\repos\Bastun\Bastun\obj\Debug\netcoreapp3.1\Bastun.dll
+C:\Users\Sebastian\source\repos\Bastun\Bastun\obj\Debug\netcoreapp3.1\Bastun.pdb
+C:\Users\Sebastian\source\repos\Bastun\Bastun\obj\Debug\netcoreapp3.1\Bastun.genruntimeconfig.cache
